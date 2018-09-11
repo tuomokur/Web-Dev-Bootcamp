@@ -1,0 +1,16 @@
+.gridi{
+    border: 3px solid rgb(5, 44, 5);
+    background: rgb(184, 170, 170);
+}
+
+.sisäGrid{
+    border: none;
+    background: lightblue;
+    color: white;
+    height: 20vh;
+}
+
+.row{
+    margin-bottom: 30px;
+
+}

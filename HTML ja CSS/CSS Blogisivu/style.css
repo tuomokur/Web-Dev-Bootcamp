@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    width: 45vw;
+    margin: 30px auto;
+    border: 20px solid grey;
+    padding: 0px 50px 50px 50px;
+}
+
+.pvm{
+    padding-bottom: 20px;
+    margin-top:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9em;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: rgb(39, 39, 179);
+}
+
+h2{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding-bottom: 12px;
+}
+
+.ekaKappale{
+    font-family: 'Slabo 27px', serif;
+    border-left: 7px solid grey;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-family: 'Slabo 27px', serif;
+    font-size: 1em;
+    font-weight: 500;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    line-height: 200%;
+}
+/*  Fontit
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'Slabo 27px', serif;
+
+*/
