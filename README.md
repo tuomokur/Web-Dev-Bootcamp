@@ -1,1 +1,2 @@
-# Web-Dev-Bootcamp
+# uDemy Web-Dev-Bootcamp
+# kurssin harjoituksia
